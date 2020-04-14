@@ -1,0 +1,39 @@
+Learn about What is FRONT END and its Technologies and Tools
+Make sure to mention at least 5 top notch technologies of Frontend.
+Also mentioned the name of companies using those 5 technologies individually
+
+Answer)
+
+1. React is an open-source front-end library licensed and released under MIT in 2013. React is probably the most used front-end technology and has greatly improved with every update. The library is maintained and supported by the social media giant, Facebook.
+React’s code is split into components to facilitate code reusability and fast debugging. The applications built on React are highly responsive and amounts for SEO friendliness. The data binding also ensures a solid code structure and a seamless app performance.
+
+Airbnb, Dropbox, BBC, Facebook, New York Times, and Reddit are some of the prominent websites and web apps built with React.
+
+2. AngularJS is a JavaScript front-end development framework originally developed in 2009. It was licensed under MIT as open-source and since that time, AngularJS has gained immense popularity for its advantages.
+
+Angular is maintained by the search engine powerhouse, Google, and supported by a huge community of developers. Angular uses MVVM architecture making it easy to maintain and refactor the codes. The component-based architecture further ensures a higher quality of code and eases testing.
+
+The JavaScript front-end framework is consistent, readable, and its apps are performing well in various industries.
+
+Netflix, Upwork, IBM, Goodfilms, and Freelancer are some of the renowned websites built with Angular. Gmail, Paypal, and The Guardian are some of the well-known applications built with Angular.
+
+3. Vue.js is a JavaScript framework released in 2014 and licensed as open-source under MIT. The front-end development technology is highly promising and is expected to lead the front-end development. The framework maintained by its creator Evan You and a team comprising members from various companies like Netguru and Netlify.
+
+Vue.js uses MVVM architecture and is extremely lightweight making it easy to implement. 
+
+Some of the websites and apps built with Vue.js are 9gag, Nintendo, GitLab, Behance, and Laravel. 
+
+4. Flutter is a cross-platform and open-source UI software development toolkit released by Google to create beautiful and responsive User Interfaces.It is licensed under BSD clause-3 and was released in 2017 for wide incorporation. Flutter is built on Dart and puts the language’s advantages to good use in the applications.
+
+Flutter uses the combination of widgets to create UI that is visually enticing and highly reactive. And it doesn’t have any compatibility issues as the widgets are a part of the application. Flutter’s hot reload increases the speed of the development and makes it simple. Hot reload applies the code changes to the application without having to reload.
+
+The performance is also top-notch as there is less mediation between the platform and the app.
+
+Google ads, Alibaba, Birch Finance, Cryptograph, and Hookle are some of the applications powered by Flutter.
+
+5. Ionic is an open-source front-end framework to build beautiful and fast cross-platform apps compatible with iOS, Android, and the Web using a single codebase. Ionic was released in 2013 under the MIT license and maintained by the developers of Drifty Co. It is also backed by a global community of around 5 million developers.
+
+Ionic is simple and leans towards speed, cost-efficiency, and less maintenance to help businesses grow.
+
+The National Health Service, GE Transportation, Market Watch, and Amtrak are some of the examples of business built on Ionic.
+
